@@ -1,1 +1,1 @@
-# rl_projects
+# RL Playground
